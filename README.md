@@ -23,6 +23,6 @@ first Remember to star the repo (optional but appreciated)
 after start a new codespace https://github.com/codespaces/new
 to install just copy and paste this command in your codespace terminal
 ```
-curl -O https://git.Cool.dev/sdedew/DesktopOnCodespaces/raw/branch/main/install.sh
+curl -O https://git.Sededew.dev/sdedew/Main/raw/branch/main/install.sh
 chmod +x install.sh
 ./install.sh
